@@ -19,11 +19,11 @@ Hypothesis Creation: In order to guide our data analysis, we formulated hypothes
 6. Data Visualization: To effectively communicate our findings and insights, we employed Looker Studio and Canva to create visually appealing and informative data visualizations report. These visualizations helped stakeholders comprehend the analysis results and make informed decisions.
 
 ## Tools Used 🛠
-Google BigQuery: Utilized for querying and analyzing the neobank dataset.
-Google Colab: Employed for coding, data analysis, machine learning algorthims and preforme A/B tests.
-Looker Studio: Utilized for creating interactive and visually appealing data visualizations.
-Notion: Utilized for project management, collaboration, and documentation.
-Canva: Used for designing visually appealing presentation that include charts and infographics.
+* Google BigQuery: Utilized for querying and analyzing the neobank dataset.
+* Google Colab: Employed for coding, data analysis, machine learning algorthims and preforme A/B tests.
+* Looker Studio: Utilized for creating interactive and visually appealing data visualizations.
+* Notion: Utilized for project management, collaboration, and documentation.
+* Canva: Used for designing visually appealing presentation that include charts and infographics.
 
 
 ## The report 📈
